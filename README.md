@@ -6,7 +6,7 @@ Afin d'y participer, il faut :
 - proposer une idée d'application
 - Evaluer sa faisabilité au travers d'une analyse statistique des données disponibles sur la base de donnée d'OpenFoodFacts
 
-Les objectifs de ce projet sont de :
+Compétences développées pour ce projet :
 - Effectuer une analyse statistique multivariée
 - Communiquer ses résultats à l’aide de représentations graphiques lisibles et pertinentes
 - Effectuer une analyse statistique univariée

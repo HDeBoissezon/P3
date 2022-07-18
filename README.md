@@ -5,7 +5,7 @@ L'agence "Santé publique France" a lancé un appel à projets pour trouver des 
 Afin d'y participer, il faut :
 - proposer une idée d'application
 - Evaluer sa faisabilité au travers d'une analyse statistique des données disponibles sur la base de donnée d'OpenFoodFacts
-
+________________________________________
 Compétences développées pour ce projet :
 - Effectuer une analyse statistique multivariée
 - Communiquer ses résultats à l’aide de représentations graphiques lisibles et pertinentes

@@ -1,4 +1,4 @@
-# P3 : Conception d’une application au service de la santé publique!
+# P3 : Conception d’une application au service de la santé publique
 Ce projet s'inscrit dans le cadre de la formation Data Scientist délivrée par **OpenClassRooms** et **Centrale Supélec**.
 
 L'agence "Santé publique France" a lancé un appel à projets pour trouver des idées innovantes d’applications en lien avec l'alimentation.
